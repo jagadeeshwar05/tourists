@@ -1,0 +1,113 @@
+.padding{
+background-color:rgb(245, 244, 194);
+margin:30px;
+padding:40px;
+}
+
+
+body{
+    background-color: lightcyan;
+}
+
+
+.tajmahal{
+background-color:rgb(184, 144, 223);
+margin:40px;
+padding:40px;
+}
+
+.buddha{
+  
+background-image: linear-gradient(rgba(133, 240, 71, 0.747), rgb(231, 231, 66));
+margin:40px;
+padding:40px;
+border:3px solid green;
+display:inherit;
+}
+
+.temple{
+  
+    background-image: linear-gradient(rgba(164, 71, 240, 0.747), rgb(255, 255, 221));
+    margin:40px;
+    padding:40px;
+    border:3px solid rgb(0, 55, 128);
+    display:inherit;
+   
+    }
+
+    .kerala{
+  
+        background-image: linear-gradient(rgba(240, 71, 150, 0.747), rgb(253, 253, 34));
+        margin:40px;
+        padding:40px;
+        border:3px solid rgb(77, 0, 128);
+        display:inherit;
+       
+        }
+        .delhi{
+  
+            background-image: linear-gradient(rgba(186, 71, 240, 0.747), rgb(226, 226, 214));
+            margin:40px;
+            padding:40px;
+            border:3px solid rgb(128, 0, 17);
+            display:inherit;
+           
+            }
+
+
+            .list{
+                background-color:lightcoral;
+                margin:40px;
+                padding:40px;
+                border:3px solid rgb(0, 55, 128);
+                display:inherit;
+               
+                }
+
+
+
+
+                .table{
+                    background-image: linear-gradient(rgba(186, 71, 240, 0.747), rgb(226, 226, 214));
+                    margin:40px;
+                    padding:40px;
+                    border:3px solid rgb(0, 128, 64);
+                    display:inherit;
+                   font-size: 30px;
+                    }
+
+
+
+                    .checkbox{
+                        background-image: linear-gradient(rgba(71, 172, 240, 0.747), rgb(6, 104, 58));
+                        margin:40px;
+                        padding:40px;
+                        border:3px solid rgb(184, 241, 245);
+                        display:inherit;
+                       font-size: 30px;
+                    }
+
+                       
+                    
+                        .form{
+                        background-image: linear-gradient(rgba(71, 240, 240, 0.747), rgb(214, 226, 224));
+                        margin:40px;
+                        padding:40px;
+                        border:3px solid rgb(0, 128, 64);
+                        display:inherit;
+                       font-size: 30px;
+                       }
+
+
+                       .radio{
+
+                            background-image: linear-gradient(rgba(186, 71, 240, 0.747), rgb(226, 226, 214));
+                            margin:40px;
+                            padding:40px;
+                            border:3px solid rgb(0, 128, 64);
+                            display:inherit;
+                           font-size: 30px;
+
+
+
+                       }
